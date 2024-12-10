@@ -1,0 +1,19 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@std/path@*": "1.0.8",
+    "jsr:@std/path@1.0.8": "1.0.8",
+    "jsr:@std/path@^1.0.8": "1.0.8",
+    "npm:noop-tag@*": "2.0.0"
+  },
+  "jsr": {
+    "@std/path@1.0.8": {
+      "integrity": "548fa456bb6a04d3c1a1e7477986b6cffbce95102d0bb447c67c4ee70e0364be"
+    }
+  },
+  "npm": {
+    "noop-tag@2.0.0": {
+      "integrity": "sha512-ZZo06UN1mz2GjdElyKiSj5z+1MOhWPSZrV//nK4EfQ/uZrv2dde264P/mJ6d7Jr1M7PFhnN8rbw1rH5b0Qm6cA=="
+    }
+  }
+}
